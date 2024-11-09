@@ -12,4 +12,5 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.motion.flash-nvim" },
+  { import = "astrocommunity.media.image-nvim" },
 }
