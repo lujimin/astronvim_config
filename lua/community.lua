@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
   { import = "astrocommunity.colorscheme.nord-nvim" },
   { import = "astrocommunity.colorscheme.everforest" },
+  { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.vue" },
