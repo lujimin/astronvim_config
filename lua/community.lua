@@ -6,15 +6,12 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.color.transparent-nvim" },
-  { import = "astrocommunity.colorscheme.catppuccin" },
-  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
-  { import = "astrocommunity.colorscheme.nord-nvim" },
-  { import = "astrocommunity.colorscheme.everforest" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.motion.flash-nvim" },
   { import = "astrocommunity.media.image-nvim" },
+  { import = "astrocommunity.completion.avante-nvim" },
 }
