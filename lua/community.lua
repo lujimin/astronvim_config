@@ -6,7 +6,7 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.color.transparent-nvim" },
-  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.python" },
